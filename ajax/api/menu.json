@@ -3,22 +3,22 @@
         "title": "Reviews",
         "infoPanel": [{
             "title": "EE TV",
-            "image": "#",
+            "image": "http://placehold.it/200x120",
             "product": "EE",
             "score": 74
         }, {
             "title": "Nexus 6",
-            "image": "#",
+            "image": "http://placehold.it/200x120",
             "product": "Google",
             "score": 86
         }, {
             "title": "Band",
-            "image": "#",
+            "image": "http://placehold.it/200x120",
             "product": "Microsoft",
             "score": 65
         }, {
             "title": "Peak",
-            "image": "#",
+            "image": "http://placehold.it/200x120",
             "product": "Basis",
             "score": 84
         }]
