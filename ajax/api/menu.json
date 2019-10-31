@@ -1,0 +1,26 @@
+[
+    {
+        "title": "Reviews",
+        "infoPanel": [{
+            "title": "EE TV",
+            "image": "#",
+            "product": "EE",
+            "score": 74
+        }, {
+            "title": "Nexus 6",
+            "image": "#",
+            "product": "Google",
+            "score": 86
+        }, {
+            "title": "Band",
+            "image": "#",
+            "product": "Microsoft",
+            "score": 65
+        }, {
+            "title": "Peak",
+            "image": "#",
+            "product": "Basis",
+            "score": 84
+        }]
+    }
+]
